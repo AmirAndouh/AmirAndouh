@@ -5,5 +5,4 @@
 	<a href="https://discord.com/users/Rewindo#1958"><img src="&logo=discord&logoColor=white&link=https://discord.com/users/shuoros#5896" /></a>
 <!-- 	<a href="https://steamcommunity.com/profiles/76561199035818916/"><img src="https://img.shields.io/badge/-Shuoros-2A475E?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561199035818916/)](https://steamcommunity.com/profiles/76561199035818916/" /></a> -->
 <!-- 	<a href="https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/-What%20I%20Listen-1ED760?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1" /></a> -->
-	<a href="https://rewindo21.github.io"><img src="https://img.shields.io/badge/-My%20Resume-dcd0ff?style=flat&logo=Github&logoColor=dcd0ff &link=https://rewindo21.github.io" /></a>
 </div>
