@@ -1,6 +1,7 @@
 <div align="center"> 
 	<h4 align="center">Contact:</h4> 
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-rewindo-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
+	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-rewindo-585abf?style=flat&logo=telegram&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
 </div>
 
 <div align="center"> 
