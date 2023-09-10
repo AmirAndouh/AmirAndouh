@@ -1,16 +1,15 @@
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Contributed%20to%201500+%2B%20servers%20inside%20Discord;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
-</p>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+hope+you're+fine" alt="Typing SVG" /></a>
+</div>
 
 <div align="center"> 
-	<h4 align="center">Contact</h4> 
+	<h4 align="center">How to reach me</h4> 
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-Discord-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
 
 <div>
-	<h4 align="center">Skills</h4> 
+	<h4 align="center">My skills</h4> 
 	<p align="center"><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" align="center"> </a></p>
 </div>
 
