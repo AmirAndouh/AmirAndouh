@@ -1,5 +1,5 @@
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+hope+you're+fine" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+...;I+hope+you're+fine" alt="Typing SVG" /></a>
 </div>
 
 <div align="center"> 
@@ -8,9 +8,9 @@
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
 
-<div>
+<div align="center">
 	<h4 align="center">My skills</h4> 
-	<p align="center"><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" align="center"> </a></p>
+	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" align="center"> </a></p>
 </div>
 
 
