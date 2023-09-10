@@ -6,7 +6,7 @@
 
 <div>
 	<h4 align="center">Skills</h4>
-	<a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" width="300" height="300"> </a></p>
+	<a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb"> </a></p>
 </div>
 
 <!--
