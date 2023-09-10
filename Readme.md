@@ -5,7 +5,7 @@
 </div>
 
 <div>
-	<p align="center"><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" width="30" height="30"> </a></p>
+	<p align="center"><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" width="100" height="100"> </a></p>
 </div>
 
 <!--
