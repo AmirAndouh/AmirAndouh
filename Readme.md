@@ -4,6 +4,11 @@
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
 
+<div>
+	<p align="center"><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" width="30" height="30"> </a></p>
+</div>
+
+<!--
 <div align="center"> 
 	<h4 align="center">Skills</h4> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
@@ -14,10 +19,4 @@
     	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
     	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
 </div>
-
-<div>
-	<p align="left"> <a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,css,html,qt,postgres,mongodb"> </a> </p>
-
-</div>
-
-
+-->
