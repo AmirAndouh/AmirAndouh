@@ -14,3 +14,10 @@
     	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
     	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
 </div>
+
+<div>
+	<p align="left"> <a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,css,html,qt,postgres,mongodb"> </a> </p>
+
+</div>
+
+
