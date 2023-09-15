@@ -10,7 +10,7 @@
 
 <div align="center">
 	<h4 align="center">My skills</h4> 
-	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,css,html,postgres,mongodb" align="center"> </a></p>
+	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,sqlite,postgres,mongodb,html,css" align="center"> </a></p>
 </div>
 
 
