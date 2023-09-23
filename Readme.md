@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-	<h4 align="center">How to reach me</h4> 
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9831E6&repeat=false&width=435&lines=Reach+me+at" alt="Typing SVG" /></a>
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-Discord-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
