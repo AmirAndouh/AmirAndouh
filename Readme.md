@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-	<h4 align="center">My skills</h4> 
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9831E6&repeat=false&width=435&lines=Tech+stack" alt="Typing SVG" /></a>
 	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,postgres,mongodb,html,css" align="center"> </a></p>
 </div>
 
