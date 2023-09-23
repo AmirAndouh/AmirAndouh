@@ -3,13 +3,13 @@
 </div>
 
 <div align="center"> 
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9831E6&center=true&vCenter=true&repeat=false&width=435&lines=Reach+me+at" alt="Typing SVG" /></a>
+	<h4 align="center">Reach me at</h4> 
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-Discord-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
 
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9831E6&center=true&vCenter=true&repeat=false&width=435&lines=Tech+stack" alt="Typing SVG" /></a>
+	<h4 align="center">Tech stack</h4> 
 	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,postgres,mongodb,html,css" align="center"> </a></p>
 </div>
 
