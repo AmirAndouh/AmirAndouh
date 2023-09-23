@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-	<h4 align="center">Reach me at</h4> 
+	<h4 align="center" style="color: #9831E6;font-family: Fira" >Reach me at</h4> 
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-Discord-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
 	<a href="https://telegram.me/rewindo"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/rewindo" /></a>
 </div>
