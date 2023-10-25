@@ -10,7 +10,7 @@
 
 <div align="center">
 	<h4 align="center">Tech stack</h4> 
-	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=py,django,qt,postgres,mongodb,html,css" align="center"> </a></p>
+	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=java,py,postgres,mongodb,html,css" align="center"> </a></p>
 </div>
 
 
