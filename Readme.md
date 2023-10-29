@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9831E6&center=true&vCenter=true&width=435&lines=Hi+there+...;Don't+forget+your+coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
-</div>
-
 <div align="center"> 
 	<h4 align="center" >Reach me at</h4> 
 	<a href="https://discord.com/users/rewindo#1958"><img src="https://img.shields.io/badge/-Discord-585abf?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/rewindo#1958" /></a>
@@ -10,7 +6,7 @@
 
 <div align="center">
 	<h4 align="center">Tech stack</h4> 
-	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=java,py,postgres,mongodb,html,css" align="center"> </a></p>
+	<p><a href="https://github.com/rewindo21"><img src="https://skillicons.dev/icons?i=java,py,postgres,mongodb,html" align="center"> </a></p>
 </div>
 
 
